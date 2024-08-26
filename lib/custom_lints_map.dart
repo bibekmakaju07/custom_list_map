@@ -3,6 +3,5 @@
 /// More dartdocs go here.
 library;
 
-export 'src/custom_lints_map_base.dart';
+export 'src/custom_lint.dart';
 
-// TODO: Export any libraries intended for clients of this package.
